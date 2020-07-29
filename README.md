@@ -10,35 +10,35 @@ To test any function enter (replcall)
 -instructions will be provided 
 
 List Functions Implemented:
-append
-reverse
-map
-nub
-filter
-addtoend
-indexof
+* append
+* reverse
+* map
+* nub
+* filter
+* addtoend
+* indexof
 
 Set Functions Implemented:
-member
-insert
-insersect
-union
-difference
-subsetp
-cardinality
+* member
+* insert
+* insersect
+* union
+* difference
+* subsetp
+* cardinality
 
 Math Functions Implemented:
-absolute value
-factorial
-reight-tri
-gcd
-lcm
-nth-fibo
-prime
+* absolute value
+* factorial
+* right-tri
+* gcd
+* lcm
+* nth-fibo
+* prime
 
 Required Functions Implemented:
-perfectp
-abundantp
-deficientp
+* perfectp
+* abundantp
+* deficientp
 
 
